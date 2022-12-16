@@ -2,9 +2,7 @@
 
 /**
  *  main - Main
- *
  *  @argc: Number of args
- *
  *  @argv: Command line args
  *
  *  Return: Void
